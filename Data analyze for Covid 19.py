@@ -47,7 +47,7 @@ recovered_data.loc[idx, 'Country/Region'] = 'China'
 # In[10]:
 
 
-# Creating the country map.
+# Creating the country map
 country_map = {
     'Singapore Rep.': '新加坡', 'Dominican Rep.': '多米尼加', 'Palestine': '巴勒斯坦', 'Bahamas': '巴哈马', 'Timor-Leste': '东帝汶',
     'Afghanistan': '阿富汗', 'Guinea-Bissau': '几内亚比绍', "Côte d'Ivoire": '科特迪瓦', 'Siachen Glacier': '锡亚琴冰川',
